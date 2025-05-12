@@ -36,7 +36,7 @@ while True:
         if face_alexa:
             cv2.putText(frame, "Filzah Alexandra", (20, 450), cv2.FONT_ITALIC, 2, (0, 255, 0), 3)
         else:
-            cv2.putText(frame, "Filzah Alexandra", (20, 450), cv2.FONT_ITALIC, 2, (255, 0, 0), 3)
+            cv2.putText(frame, " ", (20, 450), cv2.FONT_ITALIC, 2, (255, 0, 0), 3)
         
         cv2.imshow("video", frame)
 
