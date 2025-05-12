@@ -36,6 +36,8 @@ Alur demos:
 </ol>
 <h4>5. Version Control</h4>
 Agar dapat berkolaborasi dengan efektif, penting bagi anggota divisi programming untuk memahami Git dan Github dengan baik. Github adalah platform yang memungkinkan satu orang untuk mempublikasi projeknya dan dapat dimodifikasi dan dikoreksi oleh anggota lainnya.
+<h2>Dokumentasi Bootcamp</h2>
+
 ![WhatsApp Image 2025-05-12 at 19 58 44_0e48fb28](https://github.com/user-attachments/assets/7c24a629-fa51-4ea6-80a2-fbe4565129f8)
 ![WhatsApp Image 2025-05-12 at 19 58 44_289852cc](https://github.com/user-attachments/assets/7302fad3-fdd1-47e2-8370-8b0e11183298)
 ![WhatsApp Image 2025-05-12 at 19 58 44_883489fb](https://github.com/user-attachments/assets/bc15bc96-a040-4374-b4cf-33effe444d21)
