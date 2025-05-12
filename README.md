@@ -31,8 +31,8 @@ Alur demos:
   <li>Buat program .ino di Arduino IDE atau VSCode,</li>
   <li>Di VSCode, gunakan extension Platform IO untuk mensimulasikan program Arduino,</li>
   <li>Program juga bisa disimulasikan di platform Wowki,</li>
-  <li>Di Wowki, pilih board yang akan digunakan dan rakit prototipe</li>
-  <li>Tambahkan kode ke code editor agar protipe dapat tereksekusi</li>
+  <li>Di Wowki, pilih board yang akan digunakan dan rakit prototipe, dan</li>
+  <li>Tambahkan kode ke code editor agar protipe dapat terjalankan.</li>
 </ol>
 <h4>5. Version Control</h4>
 Agar dapat berkolaborasi dengan efektif, penting bagi anggota divisi programming untuk memahami Git dan Github dengan baik. Github adalah platform yang memungkinkan satu orang untuk mempublikasi projeknya dan dapat dimodifikasi dan dikoreksi oleh anggota lainnya.
@@ -54,4 +54,4 @@ servoku = servo</p>
 <h2>Penjelasan Kode OpenCV Python</h2>
 <h3>OpenCV + DeepFace</h3>
 Library yang digunakan pada projek ini adalah opencv-python dan deepface. Opencv-python memungkinkan program untuk membuka kamera dan menangkap gambar di webcam. Deepface adalah framework analisis wajah ringan yang mampu mengenali wajah. Program ini menggunakan fungsi dasar OpenCV untuk membuka kamera, menyalin frame, dan menampilkan teks di layar webcam. Library DeepFace digunakan untuk menyocokkan wajah yang muncul di webcam dengan gambar referensi.
-<h3>OpenCV + Ultralytics Yolo11</h3>
+
