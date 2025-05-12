@@ -5,7 +5,7 @@ from deepface import DeepFace
 capt = cv2.VideoCapture(0, cv2.CAP_DSHOW)
 
 capt.set(cv2.CAP_PROP_FRAME_HEIGHT, 540)
-capt.set(cv2.CAP_PROP_FRAME_HEIGHT, 700)
+capt.set(cv2.CAP_PROP_FRAME_WIDTH, 700)
 
 count = 0
 
